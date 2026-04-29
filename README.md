@@ -30,7 +30,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ---
 
 ## 💡 What I Do
